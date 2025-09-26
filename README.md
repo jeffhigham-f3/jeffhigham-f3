@@ -1,17 +1,86 @@
 
-Senior Developer · Mobile & Full-Stack | Flutter · React Native · IOS · TypeScript · AWS · GCP · Firebase · HealthKit · Wearables · BlueTooth
-----------------------
+# Senior Developer · Mobile & Full-Stack | Flutter · React Native · IOS · TypeScript · AWS · GCP · Firebase · HealthKit · Wearables · BlueTooth
 
-I design and build high-impact mobile and cloud solutions using Flutter, React Native, native iOS, Firebase, Supabase, AWS, and Google Cloud. With 20+ years of experience, I lead cross-functional teams from MVP to launch, turning product visions into scalable, real-world applications.
+## About
+I’m a Senior Software Engineer and mobile expert with leadership experience who specializes in taking products from idea to MVP and then from MVP to scale. Over the past decade, I’ve delivered cross-platform apps and cloud backends across healthcare, fitness, SaaS, and consumer products, with expertise spanning Flutter, React Native, Node, AWS, and Google Cloud. I am available for full-time placement, contract, or freelance roles.
 
-* 🌍  I'm based in Austin, TX // Naples, FL
-* 🖥️  See my [Portfolio](http://www.jeffhigham.com)
+With over a decade of experience delivering mobile applications and cloud-native platforms, I specialize in taking products from idea to MVP and then scaling them to enterprise-ready systems. My work consistently strikes a balance between speed, reliability, and maintainability, enabling teams to ship high-quality products quickly and sustainably.
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby" title="Ruby" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+I lead engineering teams and guided architecture across both startups and hyper-growth organizations. In those roles, I designed frameworks and tooling that solved immediate product needs while creating leverage for future development. My background includes building cross-platform mobile apps used by hundreds of thousands of users, architecting secure cloud backends on AWS and Google Cloud, and implementing compliant data systems in regulated industries like healthcare.
 
-### Socials
+I practice continual improvement and adaptation as a core part of my career growth, actively incorporating modern AI-assisted workflows tactically to help accelerate delivery and reduce repetitive tasks. Using AI increases productivity and allows me to focus more on architecture, problem-solving, and building features that matter — without compromising code quality.
 
-<p align="left"> <a href="https://www.github.com/jeffhigham-f3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/jeffhigham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@jeffhigham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/jeffhigham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+Just as importantly, I promote growth-centered team cultures where collaboration and mentorship thrive. I believe the best outcomes happen when strong engineering practices align with healthy team dynamics.
 
+## Highlights
+- *Delivered* production-ready mobile apps in direct sales, online shopping, renewable energy, healthcare, fitness, B2B SaaS and consumer markets, serving 500K+ users with custom device integrations, subscription management, and responsive cross-platform UIs.
+- *Architected* cloud-native backends using Node, GraphQL, and PostgreSQL, deployed on AWS/GCP with HIPAA-compliant security, supporting both startups and enterprise healthcare platforms.
+- *Automated* cloud infrastructure with Terraform and implemented CI/CD pipelines, reducing deployment time by 90% and enabling zero-downtime releases across multiple environments.
+- *Scaled* engineering teams as a Director of Engineering, establishing best practices, mentoring developers, and aligning technical execution with business goals.
+- *Led* product management initiatives from idea to MVP and then from MVP to scale, defining user workflows, prioritizing features, and balancing scope with delivery timelines.
+- *Delivered* scalable, multi-environment systems that powered multi-clinic healthcare operations, ensuring compliance, performance, and long-term maintainability.
+- *Founded* and managed a successful software consultancy.
+  
+
+## Expertise
+
+### Flutter & Dart
+
+- Flutter SDK, advanced widget system, Material Design 3, custom UI components, animations, adaptive layouts, dark/light mode, responsive design across all screens (mobile and desktop)
+- State Management: Bloc/Cubit, Provider, Riverpod, Clean Architecture, Repository pattern, modular feature-based structure
+- Performance & Reliability: app startup optimization, reducing frame drops, memory management, offline-first data sync, background tasks
+- Integrations: BLE device connectivity, Apple HealthKit, Google Fit, mDNS service discovery, low-level device communication over WiFi/LAN
+- Ecosystem Contributions: published open-source Flutter packages on pub.dev
+- Testing: unit tests, widget tests, integration tests, test coverage analysis, Very Good Analysis tooling
+CI/CD: Shorebird
+
+### React Native & JavaScript/TypeScript
+
+- React Native CLI, Express, cross-platform mobile development, React fundamentals (hooks, lifecycle, context API)
+- State Management: Redux Toolkit, RTK Query, React Query, async storage
+- UI/UX: React Navigation (stack/tab/drawer), Styled Components, Tailwind CSS, custom animations (Reanimated, Lottie)
+- Native Module Integration: bridging with Swift/Objective-C and Kotlin/Java, integrating device SDKs and platform-specific APIs
+- Performance: profiling and optimizing rendering, memory usage, and app startup time; crash monitoring with Sentry
+- Integrations: Firebase (Auth, Firestore, Functions, Crashlytics), Onfido identity verification, payment processing (PCI compliance)
+
+### Backend & APIs
+
+- Node.js, Express.js, GraphQL (Apollo Server/Client), REST APIs
+- API security (OAuth2, JWT, RBAC), HIPAA and PCI compliance
+- Data pipelines, synchronization, event-driven architectures
+
+### Databases & Storage
+
+- PostgreSQL, SQLite, Cloud Firestore, Hive, SharedPreferences, AWS RDS/S3
+- Data modeling, schema design, migrations, JSON serialization
+
+### Cloud & DevOps
+
+- AWS (ECS, RDS, SQS, CloudFront, IAM, KMS), Google Cloud (Pub/Sub, Scheduler, Functions), Firebase Platform (Auth, Firestore, Storage, Analytics, Crashlytics, Remote Config)
+- Docker, Terraform (IaC), CI/CD pipelines, multi-environment deployment (dev/staging/prod), containerization
+
+### AI-Augmented Development
+
+- Cursor IDE, Claude, Model Context Protocol (MCP) servers
+- AI-assisted code generation, refactoring, orchestration, and workflow automation
+- 10× productivity gains via AI-native workflows
+
+### Testing & Monitoring
+
+- Jest, Vitest, Mockito, Mocktail, Flutter integration tests
+- Sentry, Pino Logger, CloudWatch for monitoring and performance tracking
+
+### Leadership & Product Skills
+
+- Director of Engineering: technical direction, mentoring, and team leadership
+- Product management: MVP scoping, feature prioritization, roadmap definition
+- Cross-functional collaboration with product, design, QA, and stakeholders
+
+## Location & Work Preference
+
+- 🌍 Austin, Texas · Naples, Florida · Salt Lake City, Utah
+- 🧑‍💻 Remote · On-Site · Hybrid
+- 📝 Contract · C2C · W2
+
+## Website
+- [Personal Portfolio Website](https://www.jeffhigham.com)
